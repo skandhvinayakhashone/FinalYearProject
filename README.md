@@ -39,7 +39,7 @@ scikit-learn >= 0.22
 
 wand >= 0.5.7
 
-YOLO weights @ 
+YOLO weights @ https://pjreddie.com/media/files/yolov3.weights
 
 Instructions for use:
 
