@@ -45,8 +45,10 @@ Instructions for use:
 
 1. Download a playlist of youtube videos using youtube_downloader.py
 
-2. Extract objects, texts, audio, descrtiptions using the respective extraction programs in the repo.
+2. Extract objects, texts, audio, descrtiptions using the respective extraction programs in the repo. 
 
-3. Use frontend.py to get recommendations for test videos.
+3. Create different combinations of the same.
+
+4. Use frontend.py to get recommendations for test videos.
 
 
