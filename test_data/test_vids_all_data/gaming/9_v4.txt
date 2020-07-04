@@ -1,0 +1,42 @@
+Sledgehammer Games' shooter is faster and more focused than any Call of Duty game before it.
+
+
+person
+ truck
+ parking meter
+ sofa
+ bird
+ motorbike
+ tvmonitor
+ bed
+ fire hydrant
+ suitcase
+ vase
+ clock
+ traffic light
+ bottle
+ umbrella
+ backpack
+ train
+ dog
+ cell phone
+ wine glass
+ chair
+ car
+ tie
+ laptop
+ horse
+ stop sign
+ bicycle
+ keyboard
+ cow
+ skateboard
+ donut
+ cat
+ elephant
+ bus
+ boat
+ refrigerator
+ aeroplane
+ cup
+

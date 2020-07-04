@@ -1,0 +1,27 @@
+Ghost's great-looking reboot shifts the series in a nice direction but doesn't pack quite enough under the hood.
+
+
+person
+ remote
+ truck
+ parking meter
+ motorbike
+ tvmonitor
+ suitcase
+ clock
+ traffic light
+ bottle
+ umbrella
+ kite
+ train
+ cell phone
+ bench
+ car
+ laptop
+ stop sign
+ bicycle
+ cat
+ bus
+ aeroplane
+ cup
+
